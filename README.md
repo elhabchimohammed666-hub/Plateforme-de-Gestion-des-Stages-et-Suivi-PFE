@@ -1,3 +1,6 @@
+## License
+   © 2026 Elhabchi Mohammed. All Rights Reserved.
+
 # Plateforme de gestion des stages et du suivi PFE
 
 MVP OFPPT construit avec Laravel 12, Sanctum, MySQL et React/Vite. Il couvre les quatre espaces (administration, formateur, stagiaire, entreprise), le cycle de vie des conventions, le suivi, les rapports versionnés et les évaluations.
