@@ -38,14 +38,7 @@ Le frontend utilise `VITE_API_URL` (par défaut `http://localhost:8000/api`). Le
 
 ## Comptes de démonstration
 
-| Rôle | E-mail | Mot de passe |
-| --- | --- | --- |
-| Administrateur | `admin@ofppt.test` | `password` |
-| Formateur | `formateur@ofppt.test` | `password` |
-| Stagiaire | `stagiaire@ofppt.test` | `password` |
-| Entreprise | `entreprise@ofppt.test` | `password` |
 
-Ces comptes et mots de passe sont réservés au développement local. Ne les utilisez pas en production.
 
 ## Fonctionnalités du MVP
 
